@@ -86,6 +86,9 @@ DocProject/Help/*.hhp
 DocProject/Help/Html2
 DocProject/Help/html
 
+# SASS Ignores - "Sassy CSS" http://sass-lang.com/
+*.sass-cache
+
 # Click-Once directory
 publish/
 
